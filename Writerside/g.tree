@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="g"
+                 name="J10"
+                 start-page="empty-md-topic.md">
+
+    <toc-element topic="empty-md-topic.md">
+        <toc-element topic="entreprise.md"/>
+        <toc-element topic="clients.md"/>
+        <toc-element topic="debiteurs.md"/>
+        <toc-element topic="relances.md"/>
+        <toc-element topic="recouvrements.md"/>
+    </toc-element>
+</instance-profile>
